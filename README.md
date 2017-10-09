@@ -22,4 +22,4 @@ The templates are most easily viewed via the Marand [EhrExplorer](test.operon.sy
 
 8. An [Overview of openEHR and Ehrscape guide](/docs/openehr/openehr_intro.md) for those new to openEHR concepts.
 
-9. A [Code4Health Ehrscape API Reference Guide](https://dev.ehrscape.com/documentation.html) with detailed descriptions of the calls.
+9. A [Ehrscape API Reference Guide](https://dev.ehrscape.com/documentation.html) with detailed descriptions of the calls.
